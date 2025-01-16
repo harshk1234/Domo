@@ -29,6 +29,22 @@ Domo offers a robust suite of connectors designed to seamlessly integrate data f
 - **Federated Connectors:**  
   *Domo also supports federated connectors, which allow businesses to securely connect to data warehouses and lakes, such as Amazon Redshift, Snowflake, and Google BigQuery. This provides a unified view of data from multiple sources, enabling organizations to access and analyze data without duplicating or moving it between systems.*
 
+  Here’s how you can explain **DataFlows** and its key features, **Magic ETL** and **SQL Transformation**:
+
+### **2. DataFlows**
+
+Domo's **DataFlows** are central to its data transformation capabilities, allowing users to manipulate and prepare data for analysis. With DataFlows, businesses can seamlessly transform raw data into valuable insights by leveraging a variety of transformation tools, including **Magic ETL** and **SQL Transformation**.
+
+- **Magic ETL:**  
+  *Magic ETL (Extract, Transform, Load) is a user-friendly, no-code interface that allows users to transform data without writing complex code. It simplifies the process of merging, cleaning, filtering, and shaping data for analytics. Magic ETL uses a drag-and-drop interface, making it easy for non-technical users to perform data transformations. The process is broken down into different tiles, each representing a specific SQL operation, such as filtering, grouping, joining, or applying calculations. These tiles are visual representations of SQL functions, enabling users to perform powerful data transformations using simple actions without needing to write SQL code. Whether you’re joining data from multiple sources, removing duplicates, or applying business logic, Magic ETL streamlines the process by offering SQL-like functionality through a visual interface.*
+
+  <img width="947" alt="image" src="https://github.com/user-attachments/assets/da1628fb-49d1-4b5e-a536-c6aa5f8b68d8" />
+
+
+- **SQL Transformation:**  
+  *For users who are comfortable working with SQL, Domo offers SQL transformations within DataFlows. This feature provides greater flexibility in manipulating data by writing custom SQL queries. SQL transformations allow users to perform all SQL operations such as aggregations, joins, and complex calculations directly within Domo. By leveraging SQL, users gain precise control over their data processing workflows, making it an ideal choice for those who are experienced in writing and optimizing queries.*
+
+
 
 
 
