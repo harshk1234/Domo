@@ -4,6 +4,8 @@ Brief overview of Domo and its purpose. Its significance in the world of busines
 ## 1. Introduction
 In today’s data-driven world, businesses need powerful tools to make sense of vast amounts of data. Domo, a cloud-based business intelligence platform, has emerged as a leader in this space by helping organizations integrate, visualize, and analyze data to make informed, real-time business decisions. This article explores the features, benefits, and key use cases of Domo for modern businesses.
 
+---
+
 ## 2. What is Domo?
 Domo is a cloud-based BI and data visualization platform that allows businesses to integrate data from various sources, create interactive dashboards, and make data-driven decisions. It supports a wide range of data integrations, from spreadsheets to social media, providing users with a comprehensive view of their organization’s performance. Domo is built for scalability, allowing companies of all sizes to leverage its capabilities.
 
