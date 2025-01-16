@@ -7,17 +7,11 @@ In today’s data-driven world, businesses need powerful tools to make sense of 
 ## 2. What is Domo?
 Domo is a cloud-based BI and data visualization platform that allows businesses to integrate data from various sources, create interactive dashboards, and make data-driven decisions. It supports a wide range of data integrations, from spreadsheets to social media, providing users with a comprehensive view of their organization’s performance. Domo is built for scalability, allowing companies of all sizes to leverage its capabilities.
 
-## 3. Key Features of Domo
-
-### 1) Bring Data into Domo
-
-Domo offers a wide range of connectors and tools that allow businesses to bring data from multiple sources into the platform. These sources include cloud storage, databases, external APIs, and even spreadsheets. With just a few clicks, users can easily integrate and unify data from different systems into Domo.
-
-Here’s how you can elaborate on **"Bring Data into Domo"** using the points you provided:
-
 ---
 
-### **1. Bring Data into Domo**
+## 3. Key Features of Domo
+
+### **1. Easy way to bring Data into Domo**
 
 Domo offers a robust suite of connectors designed to seamlessly integrate data from a wide variety of sources, making it easy for organizations to unify their data and gain actionable insights. Whether your data is stored in the cloud, on-premises, or in files, Domo ensures that you can bring everything together effortlessly.
 
