@@ -43,6 +43,8 @@ Domo's **DataFlows** are central to its data transformation capabilities, allowi
 
 - **SQL Transformation:**  
   *For users who are comfortable working with SQL, Domo offers SQL transformations within DataFlows. This feature provides greater flexibility in manipulating data by writing custom SQL queries. SQL transformations allow users to perform all SQL operations such as aggregations, joins, and complex calculations directly within Domo. By leveraging SQL, users gain precise control over their data processing workflows, making it an ideal choice for those who are experienced in writing and optimizing queries.*
+<img width="431" alt="image" src="https://github.com/user-attachments/assets/ed0b7a43-8d94-4f03-9cdd-9b62036fa3c8" /> <img width="910" alt="image" src="https://github.com/user-attachments/assets/53cb13f4-bf81-46f4-98ac-b899dd29dfaa" />
+
 
 
 
